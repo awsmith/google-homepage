@@ -1,0 +1,49 @@
+
+body{
+	display:block;
+	padding:0;
+}
+main {
+	margin:auto;
+	position:fixed;
+	width:100%;
+	top:25%;
+}
+
+
+header{
+	top:0%;
+	position:absolute;
+	width:100%;
+	text-align:center;
+}
+footer{
+	position:fixed;
+	bottom:0%;
+	width:100%;
+	line-height: 20px;
+	text-align:center;
+	vertical-align:bottom;
+	background-color: #f2f2f2;
+}
+
+button {
+	font-weight:bold;
+	padding: 0.5%;
+}
+
+
+.center {
+	display:block;
+	margin:auto;
+	text-align:center;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
